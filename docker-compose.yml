@@ -2,4 +2,3 @@ services:
   service-1:
     image: alpine:${SERVICE1_VERSION}
     restart: unless-stopped
-    env_file: stack.env
