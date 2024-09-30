@@ -1,17 +1,12 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# 30561
 
 ## Current behavior
-
-Explain the current behavior here.
+Renovate Bot doesn't currently use environment variables from the .env file.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Renovate Bot should use environment variables from the .env file.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/30561
